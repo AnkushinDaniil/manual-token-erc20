@@ -5,7 +5,6 @@ coverage*
 gasReporterOutput.json
 img
 .env
-.*
 README.md
 coverage.json
 deployments
