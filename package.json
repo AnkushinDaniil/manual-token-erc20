@@ -1,5 +1,4 @@
 {
-    "license": "MIT",
     "devDependencies": {
         "hardhat": "^2.19.1",
         "prettier": "^3.1.0",
